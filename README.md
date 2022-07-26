@@ -1,4 +1,4 @@
 # MaeVeaEsteAnime.io
 No tiene responsive luego lo pongo mae XD
 
-MaeVeaEsteAnime.github.io
+https://wsd-adn.github.io/MaeVeaEsteAnime.github.io/
